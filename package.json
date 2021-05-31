@@ -1,0 +1,22 @@
+{
+  "name": "giadocker",
+  "version": "1.0.0",
+  "description": "this is my 4th activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gia0123/giadocker.git"
+  },
+  "author": "gia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gia0123/giadocker/issues"
+  },
+  "homepage": "https://github.com/Gia0123/giadocker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
